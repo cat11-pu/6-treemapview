@@ -1,0 +1,6 @@
+{
+  "tree": {"name": "root", "children": [{"name": "a", "weight": 3}, {"name": "b", "weight": 1}]},
+  "point": {"x": 0.1, "y": 0.2},
+  "zoom": "a",
+  "area_invariant": true
+}
